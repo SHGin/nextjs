@@ -19,18 +19,18 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Find in-depth information on our team.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" className={styles.card}>
             <h3>Learn &rarr;</h3>
             <p>Learn about our projects in an interactive course with style(?)!</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
             className={styles.card}
           >
             <h3>Examples &rarr;</h3>
@@ -38,7 +38,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
             className={styles.card}
           >
             <h3>Join &rarr;</h3>
