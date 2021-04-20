@@ -16,7 +16,6 @@ export default function Home() {
 
         <p className={styles.description}>
           We sincerely hope you enjoy your stay
-          <code className={styles.code}>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
