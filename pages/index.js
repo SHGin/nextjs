@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Reishiki</title>
-        <link rel="icon" href="/favicon.png" />
+        <link rel="icon" href="/logo.png" />
       </Head>
 
       <main className={styles.main}>
